@@ -1,1 +1,2 @@
 # JavaScript project
+Новый проект
